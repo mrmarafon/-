@@ -17,9 +17,7 @@ public class JavaApplication2 {
         b = input.nextInt();
         int i1 = 0;
         int i2 = 0;
-        int i = 0;
-       // sssssss;
-       System.out.println("Hello");
+        int i = 0;      
        System.out.println("A= " + a);
        System.out.println("B= " + b);
        n1=getPrimes(a);
